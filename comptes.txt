@@ -1,0 +1,5 @@
+pass1,Ajerod,Lahcen,20000;
+pass2,Galal,Warda,4000;
+pass3,Salih,Haytam,3400;
+pass4,Alaoui,Ikram,9800;
+pass5,Bodlal,Adil,2300;
